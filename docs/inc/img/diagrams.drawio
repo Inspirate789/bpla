@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="26.1.1" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="2">
   <diagram name="topology" id="Ztn3BQuzFY4twOxa2iul">
-    <mxGraphModel dx="914" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WUHj-eQJNMfQNrpW2sKK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="170" y="180" width="540" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="ZfJiZN-NPQRySnUhs4oH-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;" vertex="1" parent="1">
+        <mxCell id="ZfJiZN-NPQRySnUhs4oH-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="220" width="500" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ZfJiZN-NPQRySnUhs4oH-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;" vertex="1" parent="1">
+        <mxCell id="ZfJiZN-NPQRySnUhs4oH-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="360" width="200" height="178.63" as="geometry" />
         </mxCell>
-        <mxCell id="ZfJiZN-NPQRySnUhs4oH-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;" vertex="1" parent="1">
+        <mxCell id="ZfJiZN-NPQRySnUhs4oH-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="360" width="220" height="178.63" as="geometry" />
         </mxCell>
         <mxCell id="TsKbH-PXNSuuemO-bW0K-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/3497469-200.png;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -41,10 +41,10 @@
           <mxGeometry x="323.16" y="180" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WUHj-eQJNMfQNrpW2sKK-5" value="" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="343.58" y="398.18" width="40" height="35" as="geometry" />
+          <mxGeometry x="218.57999999999998" y="398.18" width="40" height="35" as="geometry" />
         </mxCell>
         <mxCell id="WUHj-eQJNMfQNrpW2sKK-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pngimg.com/uploads/server/server_PNG26.png;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="219.9999999999999" y="370" width="59.16" height="91.37" as="geometry" />
+          <mxGeometry x="299.9999999999999" y="370" width="59.16" height="91.37" as="geometry" />
         </mxCell>
         <mxCell id="WUHj-eQJNMfQNrpW2sKK-9" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" source="WUHj-eQJNMfQNrpW2sKK-8" target="WUHj-eQJNMfQNrpW2sKK-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -131,7 +131,7 @@
           <mxGeometry x="343.5799999999999" y="570" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3d54Unj0GAxbvSJWd9g-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pngimg.com/uploads/server/server_PNG26.png;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="600" y="370" width="59.16" height="91.37" as="geometry" />
+          <mxGeometry x="499.42" y="370" width="59.16" height="91.37" as="geometry" />
         </mxCell>
         <mxCell id="l3d54Unj0GAxbvSJWd9g-2" value="Основной сервер" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="189.99999999999994" y="508.63" width="110" height="30" as="geometry" />
@@ -140,9 +140,9 @@
           <mxGeometry x="540.0000000000001" y="508.63" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3d54Unj0GAxbvSJWd9g-5" value="Файловое&lt;br&gt;хранилище&lt;br&gt;со всеми&lt;br&gt;репозиториями" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="463.5800000000001" y="433.18" width="100" height="70" as="geometry" />
+          <mxGeometry x="590.0000000000001" y="430" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="l3d54Unj0GAxbvSJWd9g-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.686;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="l3d54Unj0GAxbvSJWd9g-1" target="ZfJiZN-NPQRySnUhs4oH-1" edge="1">
+        <mxCell id="l3d54Unj0GAxbvSJWd9g-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.686;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.179;exitY=0.109;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="l3d54Unj0GAxbvSJWd9g-1" target="ZfJiZN-NPQRySnUhs4oH-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="399" y="420" as="sourcePoint" />
             <mxPoint x="449" y="370" as="targetPoint" />
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l3d54Unj0GAxbvSJWd9g-3" value="" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="478.58000000000015" y="400" width="40" height="35" as="geometry" />
+          <mxGeometry x="620.0000000000001" y="398.19" width="40" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l3d54Unj0GAxbvSJWd9g-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.657;exitY=0.154;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.246;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TsKbH-PXNSuuemO-bW0K-4" target="l3d54Unj0GAxbvSJWd9g-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -169,7 +169,7 @@
             <mxPoint x="429" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l3d54Unj0GAxbvSJWd9g-14" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="WUHj-eQJNMfQNrpW2sKK-5" target="l3d54Unj0GAxbvSJWd9g-3" edge="1">
+        <mxCell id="l3d54Unj0GAxbvSJWd9g-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WUHj-eQJNMfQNrpW2sKK-8" target="l3d54Unj0GAxbvSJWd9g-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="379" y="380" as="sourcePoint" />
             <mxPoint x="438" y="311" as="targetPoint" />
@@ -184,10 +184,10 @@
         <mxCell id="l3d54Unj0GAxbvSJWd9g-17" value="HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="463.58" y="570" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZfJiZN-NPQRySnUhs4oH-2" value="&lt;div&gt;Сервер бэкапа&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="ZfJiZN-NPQRySnUhs4oH-2" value="&lt;div&gt;Сервер бэкапа&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="590" y="220" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZfJiZN-NPQRySnUhs4oH-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.471;exitY=0.571;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l3d54Unj0GAxbvSJWd9g-6" target="ZfJiZN-NPQRySnUhs4oH-1">
+        <mxCell id="ZfJiZN-NPQRySnUhs4oH-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.471;exitY=0.571;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="l3d54Unj0GAxbvSJWd9g-6" target="ZfJiZN-NPQRySnUhs4oH-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="270" as="sourcePoint" />
             <mxPoint x="580" y="220" as="targetPoint" />
@@ -196,11 +196,11 @@
         <mxCell id="l3d54Unj0GAxbvSJWd9g-6" value="" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="343.58000000000004" y="268.19" width="40" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ZfJiZN-NPQRySnUhs4oH-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pngimg.com/uploads/server/server_PNG26.png;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="ZfJiZN-NPQRySnUhs4oH-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pngimg.com/uploads/server/server_PNG26.png;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="408.5799999999999" y="240" width="59.16" height="91.37" as="geometry" />
         </mxCell>
-        <mxCell id="xsuSRMKl8XMmTT29UMgb-2" value="Файловое&lt;br&gt;хранилище&lt;br&gt;со всеми&lt;br&gt;репозиториями" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="294.0000000000001" y="430" width="100" height="70" as="geometry" />
+        <mxCell id="xsuSRMKl8XMmTT29UMgb-2" value="Файловое&lt;br&gt;хранилище&lt;br&gt;со всеми&lt;br&gt;репозиториями" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="188.5800000000001" y="430" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
