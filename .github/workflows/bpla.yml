@@ -1,0 +1,41 @@
+name: BPLA CI
+
+on:
+  push:
+  pull_request:
+    branches:
+      - main
+      - develop
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Golang
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+
+      - name: Build BPLA
+        run: go build -o bpla main.go
+
+  lint:
+    name: Lint
+    needs: [ build ]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+        
+      - name: Lint app
+        uses: golangci/golangci-lint-action@v7
+        with:
+          version: v2.0.2
