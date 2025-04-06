@@ -1,10 +1,14 @@
 package cli
 
-import "github.com/spf13/cobra"
+import (
+	"log/slog"
 
-func Commands() []*cobra.Command {
+	"github.com/spf13/cobra"
+)
+
+func Commands(useCase UseCase, logger *slog.Logger) []*cobra.Command {
 	return []*cobra.Command{
-		loginCmd,
-		logoutCmd,
+		loginCmd(useCase, logger),
+		logoutCmd(useCase, logger),
 	}
 }
