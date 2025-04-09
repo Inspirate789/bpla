@@ -15,10 +15,9 @@
   <graph edgedefault="directed" id="G">
     <data key="d0"/>
     <node id="n0">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="395.04999999999995" width="634.1874999999998" x="482.12499999999955" y="44.89999999999952"/>
+          <y:Geometry height="496.04999999999995" width="634.1874999999998" x="482.12499999999955" y="1.8999999999995225"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="22.22998046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="566.44140625" x="33.873046875" y="4.0">Система разграничения доступа к исходному коду лабораторных работ<y:LabelModel>
@@ -57,7 +56,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="91.0" width="155.0" x="543.9999999999999" y="100.5"/>
+          <y:Geometry height="91.0" width="155.0" x="728.9999999999999" y="47.5"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="51.39794921875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="125.31640625" x="14.841796875" y="19.801025390625">Зарегистрировать
@@ -77,7 +76,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="91.0" width="155.0" x="728.9999999999999" y="179.5"/>
+          <y:Geometry height="91.0" width="155.0" x="728.9999999999999" y="211.5"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="51.39794921875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="125.31640625" x="14.841796875" y="19.801025390625">Зарегистрировать
@@ -97,7 +96,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="91.0" width="155.0" x="908.9999999999999" y="313.5"/>
+          <y:Geometry height="91.0" width="155.0" x="728.9999999999999" y="375.5"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.5986328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="95.96484375" x="29.517578125" y="27.70068359375">Удалить
